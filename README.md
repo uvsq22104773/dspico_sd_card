@@ -27,6 +27,6 @@ Twilight uses **nds-bootstrap** by default (slower). Switch to **Pico Loader** f
 Place `gba_bios.bin` in `_gba/` for GBA games via GBARunner2.
 
 ## Prefer Pico Launcher instead?
-Switch to the **`main`** branch for pure Pico Launcher setup (no Twilight).
+Switch to the **`pico`** branch for pure Pico Launcher setup (no Twilight).
 
 **Legal**: Use only your own dumps. MIT License. Compatible DS/DSi/3DS slot-1.
