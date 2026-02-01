@@ -1,0 +1,12 @@
+{
+    "type": "custom",
+    "name": "Raspberry",
+    "description": "Theme based on raspberries.",
+    "author": "Gericom",
+    "primaryColor": {
+        "r": 138,
+        "g": 217,
+        "b": 255
+    },
+    "darkTheme": false
+}
